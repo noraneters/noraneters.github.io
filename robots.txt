@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://noraneters.github.io/sitemap.noraneters.gz
+Sitemap: https://noraneters.github.io/app/sitemap.noraneters.gz
+Sitemap: https://noraneters.github.io/assets/sitemap.noraneters.gz
+Sitemap: https://noraneters.github.io/css/sitemap.noraneters.gz
+Sitemap: https://noraneters.github.io/data/sitemap.noraneters.gz
+Sitemap: https://noraneters.github.io/includes/sitemap.noraneters.gz
+Sitemap: https://noraneters.github.io/item/sitemap.noraneters.gz
+Sitemap: https://noraneters.github.io/src/sitemap.noraneters.gz
